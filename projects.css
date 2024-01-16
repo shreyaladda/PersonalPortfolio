@@ -1,0 +1,17 @@
+main{
+    text-align: left;
+    position:relative;
+}
+
+.points{
+    position: absolute;
+    top:20%;
+    left:5%;
+}
+.projlist {
+    list-style-type: disc;
+    margin-left: 0px;
+    list-style-position: inside;
+    font-size: 1.9rem;
+    line-height: 3rem;
+}
